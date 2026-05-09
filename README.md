@@ -1,7 +1,9 @@
 # Hi there 👋
+-
 ## Studying Analysis and Development of Software at SENA
-### More About Me
 ---
+### More About Me
+-
 I'm Christian Rojas Cuero, a student of SENA. I'm currently studying Analysis and Development of Software (ADSO), a program that has showed me how big the world of programming is. A world where I want to take a cozy spot to contribute with my own knowledge and abilities. I always try to learn the most of a certain thing when needed, so if I get challenged to solve an issue, I can guarantee providing a good solution. Being _useful_ to my team (if I get to work with a team) is one of the things I'd always love to accomplish, since personally, I'm someone that likes to keep things on track, simple, understandable and organized.
 ---
 # Technologies I use & Utilities
@@ -14,6 +16,7 @@ I'm Christian Rojas Cuero, a student of SENA. I'm currently studying Analysis an
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC">
 </p>
+
 
 <!--
 **Mellowdarkl/Mellowdarkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
