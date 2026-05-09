@@ -29,8 +29,9 @@ I'm Christian Rojas Cuero, a student of SENA. I'm currently studying Analysis an
 - ExpressJS
 ---
 ## Objectives 🎯
-- Learning French (in progress)
-- Learn Portuguese and German too
+- Grow as much as I can (and want) as a person and a developer
+- Develop useful tools or solutions when needed
+- Learn French (in progress), portuguese and german
 ---
 ## Languages 🗺️
 <p align="center">
