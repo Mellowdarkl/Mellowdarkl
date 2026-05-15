@@ -35,7 +35,7 @@ I'm Christian Rojas Cuero, a student of SENA. I'm currently studying Analysis an
 ---
 ## Languages 🗺️
 <p align="center">
-  <b>English</b>, C1. I am confident that I have a decent understanding of the "universal" language.
+  <b>English</b>, B2/C1. I am confident that I have a decent understanding of the "universal" language.
 </p>
 
 
